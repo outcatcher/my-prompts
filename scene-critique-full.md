@@ -9,6 +9,7 @@ Identify places where:
 - description slows pacing
 - verbs are buried under modifiers
 - paragraphs feel dense or tiring
+- phrases have non-idiomatic or "translated" feel
 Important: If a sentence is intentionally intense, clipped, breathless, or tense to match mood or emotion, acknowledge it as an intentional “mood burst” rather than an issue.
 
 2. Verb Strength
