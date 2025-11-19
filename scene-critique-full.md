@@ -45,5 +45,6 @@ B. Verb Weakness Warnings
 C. “Too Tight / Too Dense” Flags
 D. Character & Emotional Realism Notes
 E. Optional Style Observations
+F. Overall rating
 
 I will now provide the text for analysis.
