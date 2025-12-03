@@ -20,12 +20,13 @@ Point out sentences that rely on weak or passive constructions (“was,” “we
 Explain how the verb choice affects pacing or mood.
 If weak verbs are used intentionally for tone (shock, calm, numbness, detachment), note that.
 
-4. “Too Tight for Grounded Prose” Check
+3. “Too Tight for Grounded Prose” Check
 
 **Warn me if parts feel:**
 - unintentionally dense
 - overly poetic for the situation
 - emotionally over-explained
+- overexposing a single emotion through multiple, redundant descriptors or reactions
 - atmospherically heavy without purpose
 If density feels deliberate and emotionally justified, treat it as style, not an error.
 
