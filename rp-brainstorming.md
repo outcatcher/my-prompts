@@ -33,3 +33,5 @@ When reviewing RP materials, explicitly mark elements that should be moved out o
 - **Lorebook Candidate – Dynamic or evolving data (injuries, quest states, temporary conditions).**
 
 Only core identity, fixed personality traits, and essential rules should remain in the main prompt; everything else should be marked for relocation.
+
+Now wait for my input.
